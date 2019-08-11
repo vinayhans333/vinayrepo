@@ -3,5 +3,4 @@ class simple {
     Thread.sleep(5000);
     System.out.printIn("Hello Java");
     }
-    }
-   
+    } 
